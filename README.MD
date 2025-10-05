@@ -1,19 +1,21 @@
-group 1-----------------------------------------------
-time-tracker
-todo-list
-group 2 -----------------------------------------------
-area-calculator
-factorial-master
-flexisort
-group 3-----------------------------------------------
-double-linked-list
-circular-linked-list
-single-linked-list
-group 4-----------------------------------------------
-harmonious-fusion
-distinct-substring-length
-group 5-----------------------------------------------
-check-anagram
-spiral-matrix
-maximal-square
-steady-sequence
+group1-------------------------------------------
+date-formatter
+day-of-week
+monthly-period
+age-finder
+group2-------------------------------------------
+html-validator
+url-parsing
+config-protector"
+group3-------------------------------------------
+singleton-blueprint"
+builder-blueprint
+factory-blueprint
+group4-------------------------------------------
+top-frequents
+longest-common-prefix
+first-unique
+group 5----------------------------------------
+valid-sudoku
+is-armstrong
+perfect-number
